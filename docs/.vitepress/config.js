@@ -1,7 +1,6 @@
 module.exports = {
   title: 'TEST DOC',
   description: 'Just playing around.',
-  base:'/test-doc/',
   head: [
     ['meta', {name: 'referrer', content: 'no-referrer'}],
   ],
